@@ -155,20 +155,32 @@ Used to track student progress and display the leaderboard.
 
 ## 📸 Interface Preview
 
-> _\[Insert Screenshots of your Landing Page, Quiz Interface, and Leaderboard here\]_
+
+<img width="969" height="729" alt="Screenshot 2026-04-06 at 10 44 25 AM" src="https://github.com/user-attachments/assets/9bc86c40-be64-4c15-8a99-3ecc5bce6fb9" />
+<img width="969" height="729" alt="Screenshot 2026-04-06 at 10 44 49 AM" src="https://github.com/user-attachments/assets/5984a25d-42ed-49f0-8977-a0ef4aa31bba" />
+<img width="969" height="729" alt="Screenshot 2026-04-06 at 10 45 25 AM" src="https://github.com/user-attachments/assets/dfbab1ee-29d4-4d85-af64-98a5d22eb715" />
+<img width="969" height="729" alt="Screenshot 2026-04-06 at 10 45 35 AM" src="https://github.com/user-attachments/assets/cad93b87-fb87-4260-8faf-8270c427c630" />
+
 
 * * *
 
 ## 👤 Author Information
 
-*   **Developer:** Nowshika
+*   **Developer:** Nowshika Mirza R [814723104109]
     
 *   **Year/Section:** III CSE-B
     
 *   **College:** SRM TRP Engineering College, Trichy
     
-*   **Date:** April 2026
+*   **Date:** 06 April 2026
     
+
+* * *
+
+## 🌐 Running the Application
+1. Start the **PostgreSQL** server.
+2. Run the **Spring Boot** application (`QuizAppApplication.java`).
+3. Open the frontend using VS Code Live Server at: [http://127.0.0.1:5500/](http://127.0.0.1:5500/)
 
 * * *
 
